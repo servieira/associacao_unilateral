@@ -11,7 +11,7 @@
 <img src="associações-uml.jpg" />
 <img src="quadrado.jpg" />
 <img src="cachorro.jpg" style="height: 200px;"/>
-
+<img src="carro.jpg" style="height: 200px;"/>
 
 
 <?php

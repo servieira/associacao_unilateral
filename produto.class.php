@@ -9,6 +9,14 @@ class produto{
 
 
     //métodos gets 
+
+    /* 
+    Este é o método que podemos enviar um número limitado de informações 
+    para o servidor.  Como este método utiliza os campos de endereço,  você 
+    pode  enviar  no máximo 1024 caracteres de informação.  As  informações 
+    podem ser visíveis para o usuário, porque ficam  presentes na endereço. 
+    */
+
     public function getNome()
     {
         return $this->nome;
